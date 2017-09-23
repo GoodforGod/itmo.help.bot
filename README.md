@@ -7,15 +7,18 @@ Link to [Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")
 
 ## Commands
 
+Each command starts with **/** symbol, as every other telegram bot commands.
+
 * *group_all* - Show *all* your group schedule
 * *group_week* - Show your schedule for *current* week
 * *group_today* - Show your *today* schedule
 * *group_tomorrow* - Show your *tomorrow* schedule
 * *group_remain* - Show your *remained* schedule  for week
-* *find_g_table* - Search for specific **group**  schedule
-* *find_t_table* - Search for **teacher** schedule
-* *regroup* - Change your **ISU** group
-* *help* - Tell you about some markup info.
+* *find_g_table* - Search for specific **group**  schedule *(Example: "**B3100**")*
+* *find_t_table* - Search for **teacher** schedule (Search by **Surname**, or **Surname Name Middlename**)
+* *regroup* - Change your **ISU** group *(Example: "**B3100**")*
+* *help* - Tell you about some markup info
+* *feedback* - Send your feedback, ideas, bug info.
 
 ## Explanation
 ### Emoji
