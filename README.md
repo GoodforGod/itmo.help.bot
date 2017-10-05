@@ -18,17 +18,16 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 * *group_today* - Show your *today* schedule.
 * *group_tomorrow* - Show your *tomorrow* schedule.
 * *group_remain* - Show your *remained* schedule  for week.
+* *set_group* - Change your **ISU** group *(Example: "**B3100**")*
 
 ### Search Commands
 * *find_group* - Search for specific **group**  schedule *(Example: "**B3100**")*
 * *find_teacher* - Search for **teacher** schedule (Search by *Surname*, or *Surname Name Middlename*)
 
-### Common commands
-* *regroup* - Change your **ISU** group *(Example: "**B3100**")*
-
 ### Utility commands
 * *help* - Tell you about some markup info.
 * *feedback* - Send your feedback, ideas, bug info.
+* *menu* - Summon bot menu.
 
 ## Explanation
 
