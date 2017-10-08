@@ -8,6 +8,15 @@ Bot now is in **Beta** stage, all functionality work by **Beta** invites only.
 
 *Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
+## Content
+- [Commands](#commands)
+  - [Group Commands](#group-commands)
+  - [Search Commands](#search-commands)
+  - [Utility commands](#utility-commands)
+- [Explanation](#explanation)
+  - [Emoji](#emoji)
+- [Version](#version)
+
 ## Commands
 
 Each command starts with **/** *symbol* as every other telegram bot commands.
@@ -42,3 +51,5 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 # Version
 
 Currently in *Beta*
+
+Realese is planned on **16.10.17**
