@@ -52,4 +52,4 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 
 Currently in *Beta*
 
-Realese is planned on **16.10.17**
+*OBT* is planned on **23.10.17**
