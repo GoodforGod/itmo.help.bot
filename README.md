@@ -4,8 +4,6 @@
 
 *ITMO University* schedule Telegram Bot.
 
-Bot now is in **Beta** stage, all functionality work by **Beta** invites only.
-
 *Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 ## Content
@@ -31,11 +29,12 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 
 ### Search Commands
 * *find_group* - Search for specific **group**  schedule *(Example: "**B3100**")*
-* *find_teacher* - Search for **teacher** schedule (Search by *Surname*, or *Surname Name Middlename*)
+* *find_teacher* - Search for **teacher** schedule (Search by *Surname* or *Surname Name Middlename* **ONLY**)
 
 ### Utility commands
 * *help* - Tell you about some markup info.
-* *feedback* - Send your feedback, ideas, bug info.
+* *lang* - Change **language** for bot.
+* *feedback* - Send your *feedback/ideas/bugreports*.
 * *menu* - Summon bot menu.
 
 ## Explanation
