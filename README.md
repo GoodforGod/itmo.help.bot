@@ -35,6 +35,7 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 * *help* - Tell you about some markup info.
 * *lang* - Change **language** for bot.
 * *feedback* - Send your *feedback/ideas/bugreports*.
+* *silent* - Disable/Enable all notifications from Bot.
 * *menu* - Summon bot menu.
 
 ## Explanation
@@ -51,4 +52,4 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 
 Currently in *Beta*
 
-*OBT* is planned on **23.10.17**
+*OBT* is planned on **17.11.17**
