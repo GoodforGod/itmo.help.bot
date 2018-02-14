@@ -19,24 +19,34 @@
 
 Each command starts with **/** *symbol* as every other telegram bot commands.
 
-### Group Commands
+### Lesson commands
+
+Commands used to look for *student* lessons schedule.
+
 * */group_all* - Show *all* your group schedule.
 * */group_week* - Show your schedule for *current* week.
 * */group_today* - Show your *today* schedule.
 * */group_tomorrow* - Show your *tomorrow* schedule.
 * */group_remain* - Show your *remained* schedule  for week.
 * */group_select* - Select schedule for specific day.
-
 * */set_group* - Change your **ISU** group *(Example: "**B3100**")*
 
 ### Search Commands
+
+Commands used to search for specific *student/teacher* schedule of *lessons/exams*.
+
+#### Lessons
 * */find_group* - Search for specific **group** schedule *(Example: "**B3100**")*
 * */find_teacher* - Search for **teacher** schedule (Search by *Surname* or *Surname Name Middlename* **ONLY**)
 
+#### Exams
 * */find_exam* - Search for specific **group** *exams* *(Example: "**B3100**")*
 * */find_teacher_exam* - Search for **teacher** *exams* (Search by *Surname* or *Surname Name Middlename* **ONLY**)
 
 ### Utility commands
+
+Commands used to tune *bots settings* or provide helpful information.
+
 * */help* - Tell you about some markup info.
 * */lang* - Change **language** for bot.
 * */feedback* - Send your *feedback/ideas/bugreports*.
@@ -44,6 +54,8 @@ Each command starts with **/** *symbol* as every other telegram bot commands.
 * */menu* - Summon bot menu.
 
 ## Explanation
+
+Section describes basic *symbols/functionality* utilized by bot.
 
 ### Emoji
 
