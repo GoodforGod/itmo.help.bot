@@ -8,7 +8,7 @@
 
 ## Content
 - [Commands](#commands)
-  - [Group Commands](#group-commands)
+  - [Lesson Commands](#lesson-commands)
   - [Search Commands](#search-commands)
   - [Utility commands](#utility-commands)
 - [Explanation](#explanation)
