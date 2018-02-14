@@ -20,33 +20,48 @@
 Each command starts with **/** *symbol* as every other telegram bot commands.
 
 ### Group Commands
-* *group_all* - Show *all* your group schedule.
-* *group_week* - Show your schedule for *current* week.
-* *group_today* - Show your *today* schedule.
-* *group_tomorrow* - Show your *tomorrow* schedule.
-* *group_remain* - Show your *remained* schedule  for week.
-* *set_group* - Change your **ISU** group *(Example: "**B3100**")*
+* */group_all* - Show *all* your group schedule.
+* */group_week* - Show your schedule for *current* week.
+* */group_today* - Show your *today* schedule.
+* */group_tomorrow* - Show your *tomorrow* schedule.
+* */group_remain* - Show your *remained* schedule  for week.
+* */group_select* - Select schedule for specific day.
+
+* */set_group* - Change your **ISU** group *(Example: "**B3100**")*
 
 ### Search Commands
-* *find_group* - Search for specific **group**  schedule *(Example: "**B3100**")*
-* *find_teacher* - Search for **teacher** schedule (Search by *Surname* or *Surname Name Middlename* **ONLY**)
+* */find_group* - Search for specific **group** schedule *(Example: "**B3100**")*
+* */find_teacher* - Search for **teacher** schedule (Search by *Surname* or *Surname Name Middlename* **ONLY**)
+
+* */find_exam* - Search for specific **group** *exams* *(Example: "**B3100**")*
+* */find_teacher_exam* - Search for **teacher** *exams* (Search by *Surname* or *Surname Name Middlename* **ONLY**)
 
 ### Utility commands
-* *help* - Tell you about some markup info.
-* *lang* - Change **language** for bot.
-* *feedback* - Send your *feedback/ideas/bugreports*.
-* *silent* - Disable/Enable all notifications from Bot.
-* *menu* - Summon bot menu.
+* */help* - Tell you about some markup info.
+* */lang* - Change **language** for bot.
+* */feedback* - Send your *feedback/ideas/bugreports*.
+* */silent* - Disable/Enable all notifications from Bot.
+* */menu* - Summon bot menu.
 
 ## Explanation
 
 ### Emoji
-* 🌕 - Means that lesson occur only on **odd (Нечетных)** weeks.
-* 🌑 - Means that lesson occur only on **even (Четных)** weeks.
-* 🌗 - Means that lesson occur **each week**.
-* 📯 - Means **today** day on the schedule.
-* 📆 - Means *any other day* on the schedule.
-* 📍 - Means lesson's room and address.
+
+#### Lessons
+* 🌕 - Mean that lesson occur only on **odd (Нечетных)** weeks.
+* 🌑 - Mean that lesson occur only on **even (Четных)** weeks.
+* 🌗 - Mean that lesson occur **each week (Каждую неделю)**.
+* 📯 - Mean **today** day on the schedule list.
+* 📆 - Mean nothing, just *any other day* on the schedule.
+* 📍 - Mean lesson's room and address.
+
+* 👨‍🔬 - Mean that this is **laboratory class (Лабораторная)** lesson type.
+* 👨‍🏭 - Mean that this is **practical lesson (Практика)** lesson type.
+* 👨‍🏫 - Mean that lesson type is **lecture (Лекция)**.
+
+#### Exams
+* 🔥 - Mean that **lessons or advice day** will occur today.
+* 🗣 - Mean that this info is for **advice day (Консультация)**.
 
 # Version
 
