@@ -13,7 +13,8 @@
   - [Utility commands](#utility-commands)
 - [Explanation](#explanation)
   - [Emoji](#emoji)
-- [Version](#version)
+- [Version History](#version-history)
+- [Info](#info)
 
 ## Commands
 
@@ -75,8 +76,14 @@ Section describes basic *symbols/functionality* utilized by bot.
 * 🔥 - Mean that **lessons or advice day** will occur today.
 * 🗣 - Mean that this info is for **advice day (Консультация)**.
 
-# Version
+# Version History
 
-Currently in *Beta*
+Currently in *Beta*.
+Bot is working with full functionality but access is limited and only by keys.
+You can request keys by contacting me.
 
-*OBT* is planned on **21.02.18**
+# Info
+
+*OBT* is planned on **21.02.18**.
+
+Source code will be released in some months after Bot release .
