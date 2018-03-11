@@ -1,6 +1,9 @@
-# iTMO.Help.Bot 💬
+# iTMO.Help.bot 💬
 
-<img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
+  
+</p>
 
 *ITMO University* schedule Telegram Bot.
 
