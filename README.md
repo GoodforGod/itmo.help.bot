@@ -31,6 +31,7 @@
 * Daily morning schedule notifications.
 * Campus pinpoints on map with routing in seconds. 
 * Cross-Platform access to your schedule and notifications.
+* Easily to share schedule with anyone else (if those poor guys don't use bot).
 
 <p align="center">
   <img src="https://media.giphy.com/media/m8jdGkV9YSWVd4qwFb/giphy.gif" align="middle"/>
