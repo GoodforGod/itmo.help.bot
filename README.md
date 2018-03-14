@@ -9,7 +9,7 @@
 *Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 ## Content
-- [The Why](#the-why?)
+- [The Why](#the-why)
 - [Features](#features)
   - [Registration](#registration)
   - [Notifications](#notifications)
@@ -24,14 +24,17 @@
 - [Version History](#version-history)
 - [Info](#info)
 
-## The Why?
+## The Why
 
-*You need at least some points, then here is why:*
-* Blazing fast schedule at your fingertips in your favorite messanger.
-* Daily morning schedule notifications.
-* Campus pinpoints on map with routing in seconds. 
-* Cross-Platform access to your schedule and notifications.
-* Easily to share schedule with anyone else (if those poor guys don't use bot).
+Why the hell you even need a bot? Except the *why not* phrase, you could actually utilize some of this features and make your life easier.
+
+*Okay just real talk, think about it:*
+* Blazing fast schedule at your fingertips in your **favorite messanger**.
+* **Daily morning** schedule notifications.
+* Campus **pinpoints on map** with **routing** in seconds. 
+* **Cross-Platform** access to your schedule and notifications.
+* **Easily to share** schedule with anyone else (if those poor guys don't use bot).
+* Common you don't need more arguments, just do it! -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 <p align="center">
   <img src="https://media.giphy.com/media/m8jdGkV9YSWVd4qwFb/giphy.gif" align="middle"/>
@@ -124,9 +127,11 @@ Commands used to tune *bots settings* or provide helpful information.
 
 ## Explanation
 
-Section describes basic *symbols/functionality* utilized by bot.
+This section describes basic *symbols/functionality* utilized by bot.
 
 ### Emoji
+
+All about emojies bot utilize.
 
 #### Lessons
 * 🌕 - Mean that lesson occur only on **odd (Нечетных)** weeks.
