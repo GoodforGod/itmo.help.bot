@@ -34,7 +34,7 @@ Why the hell you even need a bot? Except the *why not* phrase, you could actuall
 * Campus **pinpoints on map** with **routing** in seconds. 
 * **Cross-Platform** access to your schedule and notifications.
 * **Easily to share** schedule with anyone else (if those poor guys don't use bot).
-* Common you don't need more arguments, just do it! -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
+* Common you don't need more arguments, *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 <p align="center">
   <img src="https://media.giphy.com/media/m8jdGkV9YSWVd4qwFb/giphy.gif" align="middle"/>
@@ -65,6 +65,12 @@ Bot support all main features like:
 Supported both on *phone and desktop* and depends on *Google Map* service.
 
 <img src="https://media.giphy.com/media/TgMKRdf8po8WSr6el5/giphy.gif" align="middle"/>
+ 
+## Guide
+
+Also here is a **[Guide](http://telegra.ph/Getting-Started-ENG-03-14 "Guide (ENG)")** where group and exam schedule structure is considered in detail.
+
+Russian version is available **[here](http://telegra.ph/Getting-Started-RUS-03-14 "Guide (RUS)")**.
  
 ## Commands
 
@@ -139,7 +145,7 @@ All about emojies bot utilize.
 * 🌗 - Mean that lesson occur **each week (Каждую неделю)**.
 * 📯 - Mean **today** day on the schedule list.
 * 📆 - Mean nothing, just *any other day* on the schedule.
-* 📍 - Mean lesson's room and address.
+* 📍 - Mean lessons **room** and **address**.
 
 * 👨‍🔬 - Mean that this is **laboratory class (Лабораторная)** lesson type.
 * 👨‍🏭 - Mean that this is **practical lesson (Практика)** lesson type.
@@ -154,7 +160,7 @@ All about emojies bot utilize.
 Current - *1.0.0*
 
 Bot is working with full functionality.
-You can contact with developer throught */feedback* command if you want.
+You can contact with developer throught **/feedback** command if you want.
 
 # Info
 
