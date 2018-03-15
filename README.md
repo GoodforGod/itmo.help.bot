@@ -34,7 +34,7 @@ Why the hell you even need a bot? Except the *why not* phrase, you could actuall
 * Campus **pinpoints on map** with **routing** in seconds. 
 * **Cross-Platform** access to your schedule and notifications.
 * **Easily to share** schedule with anyone else (if those poor guys don't use bot).
-* Common you don't need more arguments, *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
+* Come on, you don't need more arguments, you just need it. *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 <p align="center">
   <img src="https://media.giphy.com/media/m8jdGkV9YSWVd4qwFb/giphy.gif" align="middle"/>
