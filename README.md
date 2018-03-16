@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
 </p>
 
-*ITMO University* schedule Telegram Bot.
+Telegram бот расписания занятий *Университета ИТМО*.
 
-*Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
+*Ссылка* на бота **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 ## Content
-- [The Why](#the-why)
+- [Что, Зачем, Почему](#что-зачем-почему)
 - [Features](#features)
   - [Registration](#registration)
   - [Notifications](#notifications)
@@ -24,144 +24,144 @@
 - [Version History](#version-history)
 - [Info](#info)
 
-## The Why
+## Что, Зачем, Почему
 
-Why the hell you even need a bot? Except the *why not* phrase, you could actually utilize some of this features and make your life easier.
+Зачем тебе нужен бот, спросишь ты? Естественно потому что это круто, но ты также можешь найти в нем очень крутые особенности и сделать свою жизнь чуточку лучше.
 
-*Okay just real talk, think about it:*
-* Blazing fast schedule at your fingertips in your **favorite messanger**.
-* **Daily morning** schedule notifications.
-* Campus **pinpoints on map** with **routing** in seconds. 
-* **Cross-Platform** access to your schedule and notifications.
-* **Easily to share** schedule with anyone else (if those poor guys don't use bot).
-* Come on, you don't need more arguments, you just need it. *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
+*Ты только подумай о...*
+* Мгновенное расписание по твоему щелчку в твоем **любимом мессенджере**.
+* **Ежедневная утренняя** порция расписания от бота, только для тебя.
+* Адреса кампусов **на карте** с возможностью проложить **маршрут** в считанные секунды. 
+* **Кросс-платформенный** доступ к расписанию и уведомлениям.
+* Возможность **легко делиться** расписанием со своими коллегами (если эти бедняги еще не знают о боте).
+* Ну что тебе еще нужно, правда, тебе ведь уже не терпиться попробовать его. *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 <p align="center">
   <img src="https://media.giphy.com/media/m8jdGkV9YSWVd4qwFb/giphy.gif" align="middle"/>
 </p>
 
-## Features
+## Возможности
 
-Bot support all main features like:
-* Your full *group* schedule and its daily notifications.
-* Rich *group* schedule commands.
-* Your *exams* with notifications of upcoming exams and advice days.
-* Search for *group/teacher* schedules.
-* Search for *group/teacher* exams.
-* Get *campus* address with routing in seconds.
-* Multi-language support (*Russian\English*)
-* And there is more..
+Бот обладает всеми основными функциями:
+* Полная информация о *твоем* расписании и *ежедневные уведомления*.
+* Богатый набор команд для работы с *расписанием*.
+* Расписание *твоих экзаменов* и уведомления о них и *консультациях*.
+* Поиск расписания занятий по *группе и преподавателю*.
+* Поиск экзаменов по *группе и преподавателю*.
+* Доступ к *адресу кампусов на карте* и возможность мгновенно проложить *машрут* до него.
+* Поддержка нескольких языков (*Русский\Английский*).
+* И это еще не все..
  
-### Registration
+### Первый Контакт
 
 <img src="https://media.giphy.com/media/etKVHaFU6sXFatmm32/giphy.gif" align="middle"/>
 
-### Notifications
+### Уведомления
+
+Ежедневные уведомления об расписании занятий или экзаменов.
 
 <img src="https://media.giphy.com/media/6E8XSP4gtbdIi9Jf5h/giphy.gif" align="middle"/>
 
-### Campus address and routing
+### Адреса кампусов и построение маршрута
 
-Supported both on *phone and desktop* and depends on *Google Map* service.
+Поддерживается как на *телефоне так и ПК* через сервис *Google Map*.
 
 <img src="https://media.giphy.com/media/TgMKRdf8po8WSr6el5/giphy.gif" align="middle"/>
  
-## Guide
+## Туториал
 
-Also here is a **[Guide](http://telegra.ph/Getting-Started-ENG-03-14 "Guide (ENG)")** where group and exam schedule structure is considered in detail.
-
-Russian version is available **[here](http://telegra.ph/Getting-Started-RUS-03-14 "Guide (RUS)")**.
+Детальный туториал по структуре сообщения об расписании затяний и экзаменов **[Guide](http://telegra.ph/Getting-Started-RUS-03-14 "Guide (RUS)")**
  
-## Commands
+## Команды
 
-Each command starts with **/** *symbol* as every other telegram bot commands.
-You can interact with commands through menus or type them by your self.
+Каждая команда начинается с символа **/** как и у других ботов в Telegram.
+Команды доступны через меню или при вводе в ручную.
 
-### Lesson Commands
+### Команды Расписания Занятий
 
-Commands used to look for *student* lessons schedule.
+Эти команды используетюся для доступа к расписанию занятий и работы с ним.
 
-* */group_all* - Show *all* your group schedule.
-* */group_week* - Show your schedule for *current* week.
-* */group_today* - Show your *today* schedule.
-* */group_tomorrow* - Show your *tomorrow* schedule.
-* */group_remain* - Show your *remained* schedule  for week.
-* */group_select* - Select schedule for specific day.
-* */set_group* - Change your **ISU** group *(Example: "**B3100**")*
+* */group_all* - Показывает все расписание занятий.
+* */group_week* - Показывает все расписание занятий на *текущую неделю*.
+* */group_today* - Расписание занятий на *сегодняшний день*.
+* */group_tomorrow* - Расписание занятий на *завтрашний день*.
+* */group_remain* - Показывает *оставшееся* расписание занятий на *текущую неделю*.
+* */group_select* - Расписание занятий на *конкретный день* или на *все дни*.
+* */set_group* - Изменить свою **ИСУ** группу *(Пример группы: "**B3100**")*
 
 <img src="https://media.giphy.com/media/2tQXuMCCnOpjmXi26t/giphy.gif" align="middle"/>
 
-### Exam Commands
+### Команды Экзаменов
 
-Commands used navigate through *student* exams.
+Команды для работы с *экзаменами*.
 
-* */exam_all* - Show *all* your exams.
-* */exam_remain* - Show your *remained* exams.
-* */exam_next* - Show your *next* exam.
+* */exam_all* - Показывается *все* экзамены.
+* */exam_remain* - Показывается *оставшиеся* экзамены.
+* */exam_next* - Показывает *следующний* экзамен.
 
 <img src="https://media.giphy.com/media/LTDIFPM4qn57EudFzQ/giphy.gif" align="middle"/>
 
-### Search Commands
+### Команды Поиска
 
-Commands used to search for specific *student/teacher* schedule of *lessons/exams*.
+Эти команды позволяют искать *расписание занятий* для конкретной *группы* или *преподавателя*.
+Также искать *экзамены* для конкретной *группы* или *преподавателя*.
 
-**Teacher search** commands accept teacher's full name in **this only order** like (*Lebedev Ivan Dmitrievich*).
+**Поиск по преподавателю** принимает *ФИО* учителя **только в данном порядке** like (*Лебедев Иван Иванович - Фамилия Имя Отчество*).
 
-You can search by **surname** only, **surname + name** or **surname + name + middle name**.
+Вы можете искать как по **фамилии** только, так и по **фамилии + имени** или **фамилии + имени + отчеству**.
 
-#### Lessons
-* */find_group* - Search for specific **group** schedule *(Example: "**B3100**")*
-* */find_teacher* - Search for **teacher** schedule (Search by *Surname* or *Surname Name Middlename* **ONLY**)
+#### Занятия
+* */find_group* - Ищет *расписание занятий* для **конкретной группы** *(Пример группы: "**B3100**")*
+* */find_teacher* - Ищет *расписание занятий* для **преподавателя**.
 
-#### Exams
-* */find_exam* - Search for specific **group** *exams* *(Example: "**B3100**")*
-* */find_teacher_exam* - Search for **teacher** *exams* (Search by *Surname* or *Surname Name Middlename* **ONLY**)
+#### Экзамены
+* */find_exam* - Ищет *экзамены* для **конкретной группы** *(Пример группы: "**B3100**")*
+* */find_teacher_exam* - Ищет *экзамены* для **преподавателя**.
 
 <img src="https://media.giphy.com/media/7JapcjYVTTzKoxogxz/giphy.gif" align="middle"/>
 
-### Settings Commands
+### Команды Настроек
 
-Commands used to tune *bots settings* or provide helpful information.
+Данные команды используются для *настройки* параметров работы бота, смены языка, вызова помощи и так далее.
 
-* */help* - Tell you about some markup info.
-* */lang* - Change **language** for bot.
-* */feedback* - Send your *feedback/ideas/bugreports*.
-* */silent* - Disable/Enable all notifications from Bot.
-* */menu* - Summon bot menu.
+* */help* - Даст вам граткую справку и ссылку на полную статью с информацией о боте.
+* */lang* - Позволит вам **сменить язык**.
+* */feedback* - Позволит отправить *отзыв/сообщение об ошибке*.
+* */silent* - Вкл/Выкл все уведомления от бота.
+* */menu* - Вызовет главное меню если оно вдруг пропало.
+* *Уведомлнять (Когда не занятий)* - Позволит вам сказать боту стоит ли **уведомлять вас** или нет в **случае отсутствия занятий** в данный день.
 
 <img src="https://media.giphy.com/media/4ZogUfsrvXj3fEK2kc/giphy.gif" align="middle"/>
 
-## Explanation
+## Информация
 
-This section describes basic *symbols/functionality* utilized by bot.
+Эта секция описывает структуру информации и эмодзи которые использует бот. 
 
-### Emoji
+### Эмодзи
 
-All about emojies bot utilize.
+Описание всех эмодзи что используется бот.
 
-#### Lessons
-* 🌕 - Mean that lesson occur only on **odd (Нечетных)** weeks.
-* 🌑 - Mean that lesson occur only on **even (Четных)** weeks.
-* 🌗 - Mean that lesson occur **each week (Каждую неделю)**.
-* 📯 - Mean **today** day on the schedule list.
-* 📆 - Mean nothing, just *any other day* on the schedule.
-* 📍 - Mean lessons **room** and **address**.
+#### Занятия
+* 🌕 - Означает что занятие проводится только по **нечетным (Odd)** неделям.
+* 🌑 - Означает что занятие проводится только по **четным (Even)** неделям.
+* 🌗 - Означает что занятие проводится **каждую неделю**.
+* 📯 - Означает **сегодняшний** день в расписаниию.
+* 📆 - Означает любой другой день в расписании (для красоты).
+* 📍 - Означает **адресс** и **кабинет** где проводится занятие.
+ 
+* 👨‍🔬 - Означает что тип занятие - **лабораторная**.
+* 👨‍🏭 - Означает что тип занятие - **практика**.
+* 👨‍🏫 - Означает что тип занятие - **лекция)**.
 
-* 👨‍🔬 - Mean that this is **laboratory class (Лабораторная)** lesson type.
-* 👨‍🏭 - Mean that this is **practical lesson (Практика)** lesson type.
-* 👨‍🏫 - Mean that lesson type is **lecture (Лекция)**.
+#### Экзамены
+* 🔥 - Означает что **экзамен или косультация** будут сегодня.
+* 🗣 - Означает информацию об дне **консультации**.
 
-#### Exams
-* 🔥 - Mean that **lessons or advice day** will occur today.
-* 🗣 - Mean that this info is for **advice day (Консультация)**.
+# История Версий
 
-# Version History
+Текущая - *1.0.0*
 
-Current - *1.0.0*
+Бот трудится для вас в полную силу.
+Не забывайте делиться замечаниями, отзывами, предложениями через команду **/feedback**.
 
-Bot is working with full functionality.
-You can contact with developer throught **/feedback** command if you want.
-
-# Info
-
-Source code will be released in some months after Bot release.
+Исходный код будет доступен спустя пару месяцев после релиза.
