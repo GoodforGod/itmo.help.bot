@@ -5,9 +5,7 @@
   <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
 </p>
 
-Russian.
-
-*ITMO University* schedule Telegram Bot.
+Hello, I am *ITMO University* schedule Telegram Bot.
 
 *Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
