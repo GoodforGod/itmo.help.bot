@@ -9,6 +9,8 @@ Hello, I am *ITMO University* schedule Telegram Bot.
 
 *Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
+Russian **[README version](https://goodforgod.github.io/iTMO.Help.bot/README-RU "README Russian")**
+
 ## Content
 - [The Why](#the-why)
 - [Features](#features)
