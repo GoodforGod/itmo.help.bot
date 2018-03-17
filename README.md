@@ -68,12 +68,6 @@ Supported both on *phone and desktop* and depends on *Google Map* service.
 
 <img src="https://media.giphy.com/media/TgMKRdf8po8WSr6el5/giphy.gif" align="middle"/>
  
-## Guide
-
-Also here is a **[Guide](http://telegra.ph/Getting-Started-ENG-03-14 "Guide (ENG)")** where group and exam schedule structure is considered in detail.
-
-Russian version is available **[here](http://telegra.ph/Getting-Started-RUS-03-14 "Guide (RUS)")**.
- 
 ## Commands
 
 Each command starts with **/** *symbol* as every other telegram bot commands.
