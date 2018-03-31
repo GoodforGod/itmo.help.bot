@@ -147,8 +147,7 @@ All about emojies bot utilize.
 * 🌕 - Mean that lesson occur only on **odd (Нечетных)** weeks.
 * 🌑 - Mean that lesson occur only on **even (Четных)** weeks.
 * 🌗 - Mean that lesson occur **each week (Каждую неделю)**.
-* 📯 - Mean **today** day on the schedule list.
-* 📆 - Mean nothing, just *any other day* on the schedule.
+* 💡 - Mean **today** day on the schedule list.
 * 📍 - Mean lessons **room** and **address**.
 
 * 👨‍🔬 - Mean that this is **laboratory class (Лабораторная)** lesson type.
