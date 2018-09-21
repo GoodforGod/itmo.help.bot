@@ -47,8 +47,9 @@ Why the hell you even need a bot? Except the *why not* phrase, you could actuall
 ## Features
 
 Bot support all main features like:
-* Your full *group* schedule and its daily notifications.
+* Your full *group* schedule and its daily notifications, with lessons only YOU need, straight and clean.
 * Rich *group* schedule commands.
+* Group chats support, get schedule for you and your friends.
 * Your *exams* with notifications of upcoming exams and advice days.
 * Search for *group/teacher* schedules.
 * Search for *group/teacher* exams.
@@ -81,11 +82,13 @@ Commands used to look for *student* lessons schedule.
 
 * */group_all* - Show *all* your group schedule.
 * */group_week* - Show your schedule for *current* week.
+* */group_next* - Show your schedule for *next* week.
 * */group_today* - Show your *today* schedule.
 * */group_tomorrow* - Show your *tomorrow* schedule.
 * */group_remain* - Show your *remained* schedule  for week.
 * */group_select* - Select schedule for specific day.
 * */set_group* - Change your **ISU** group *(Example: "**B3100**")*
+* */group_common* - Check what lessons you have *incommon* with other group
 
 <img src="https://media.giphy.com/media/2tQXuMCCnOpjmXi26t/giphy.gif" align="middle"/>
 
@@ -121,10 +124,12 @@ You can search by **surname** only, **surname + name** or **surname + name + mid
 
 Commands used to tune *bots settings* or provide helpful information.
 
+* */settings* - All the settings bot have.
 * */help* - Tell you about some markup info.
 * */lang* - Change **language** for bot.
 * */feedback* - Send your *feedback/ideas/bugreports*.
 * */silent* - Disable/Enable all notifications from Bot.
+* */exclude* - Exclude lessons from schedule and notifications.
 * */menu* - Summon bot menu.
 
 <img src="https://media.giphy.com/media/4ZogUfsrvXj3fEK2kc/giphy.gif" align="middle"/>
@@ -160,7 +165,7 @@ All about emojies bot utilize.
 
 # Version History
 
-Current - *1.0.0*
+Current - *1.2.0*
 
 Bot is working with full functionality.
 You can contact with developer throught **/feedback** command if you want.
