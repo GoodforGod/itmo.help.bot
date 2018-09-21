@@ -5,11 +5,9 @@
   <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
 </p>
 
-Hello, I am *ITMO University* schedule Telegram Bot.
+Hello, I am *ITMO University* schedule **[Telegram Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**.
 
-*Link* to **[iTMO.Help.Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
-
-Russian **[README version](https://goodforgod.github.io/iTMO.Help.bot/README-RU "README Russian")**
+**[README in russian](https://goodforgod.github.io/itmo.help.bot/README-RU "README Russian")**
 
 ## Content
 - [The Why](#the-why)
@@ -37,7 +35,7 @@ Why the hell you even need a bot? Except the *why not* phrase, you could actuall
 * **Daily morning** schedule notifications.
 * Campus **pinpoints on map** with **routing** in seconds. 
 * **Cross-Platform** access to your schedule and notifications.
-* **Easily to share** schedule with anyone else (if those poor guys don't use bot).
+* **Easy to share** schedule with anyone else (if those poor guys don't use bot).
 * Come on, you don't need more arguments, you just need it. *Just do it!* -> **[Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**
 
 <p align="center">
@@ -46,8 +44,8 @@ Why the hell you even need a bot? Except the *why not* phrase, you could actuall
 
 ## Features
 
-Bot support all main features like:
-* Your full *group* schedule and its daily notifications, with lessons only YOU need, straight and clean.
+Bot provide great features:
+* Your full *group* schedule and its daily notifications, with lessons only *YOU* need, *straight and clean*.
 * Rich *group* schedule commands.
 * Group chats support, get schedule for you and your friends.
 * Your *exams* with notifications of upcoming exams and advice days.
@@ -167,9 +165,4 @@ All about emojies bot utilize.
 
 Current - *1.2.0*
 
-Bot is working with full functionality.
-You can contact with developer throught **/feedback** command if you want.
-
-# Info
-
-Source code will be released in some months after Bot release.
+You can leave feedback or report bug via **/feedback** command if you want.
