@@ -1,4 +1,3 @@
-
 # iTMO.Help.bot 💬
 
 <p align="center">
@@ -87,6 +86,7 @@ Commands used to look for *student* lessons schedule.
 * */group_select* - Select schedule for specific day.
 * */set_group* - Change your **ISU** group *(Example: "**B3100**")*
 * */group_common* - Check what lessons you have *incommon* with other group
+* */exclude* - Exclude lessons from schedule and notifications.
 
 <img src="https://media.giphy.com/media/2tQXuMCCnOpjmXi26t/giphy.gif" align="middle"/>
 
@@ -163,6 +163,8 @@ All about emojies bot utilize.
 
 # Version History
 
-Current - *1.2.0*
+Current - *1.2.1*
 
 You can leave feedback or report bug via **/feedback** command if you want.
+
+Code will be available when all code will be documented and cleaned up.
