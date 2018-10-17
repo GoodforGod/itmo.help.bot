@@ -138,9 +138,9 @@ This section describes basic *symbols/functionality* utilized by bot.
 
 ## Message Structure
 
-Also here is a **[Guide](http://telegra.ph/Getting-Started-ENG-03-14 "Guide (ENG)")** where group and exam schedule structure is considered in detail.
+Also here is a **[Guide](https://telegra.ph/Welcome-10-17 "Guide (ENG)")** where group and exam schedule structure is considered in detail.
 
-Russian version is available **[here](http://telegra.ph/Getting-Started-RUS-03-14 "Guide (RUS)")**.
+Russian version is available **[here](https://telegra.ph/Dobro-pozhalovat-10-17-2 "Guide (RUS)")**.
 
 ### Emoji
 
