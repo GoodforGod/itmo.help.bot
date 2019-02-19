@@ -123,11 +123,12 @@ You can search by **surname** only, **surname + name** or **surname + name + mid
 Commands used to tune *bots settings* or provide helpful information.
 
 * */settings* - All the settings bot have.
+* */exclude* - Exclude lessons from schedule and notifications.
 * */help* - Tell you about some markup info.
 * */lang* - Change **language** for bot.
+* */set_format* - Change bot messages format.
 * */feedback* - Send your *feedback/ideas/bugreports*.
 * */silent* - Disable/Enable all notifications from Bot.
-* */exclude* - Exclude lessons from schedule and notifications.
 * */menu* - Summon bot menu.
 
 <img src="https://media.giphy.com/media/4ZogUfsrvXj3fEK2kc/giphy.gif" align="middle"/>
@@ -145,6 +146,7 @@ Russian version is available **[here](https://telegra.ph/Dobro-pozhalovat-10-17-
 ### Emoji
 
 All about emojies bot utilize.
+You can choose format with */set_format* command.
 
 #### Lessons
 * 🌕 - Mean that lesson occur only on **odd (Нечетных)** weeks.
@@ -163,8 +165,6 @@ All about emojies bot utilize.
 
 # Version History
 
-Current - *1.2.1*
+Current - *1.2.2*
 
 You can leave feedback or report bug via **/feedback** command if you want.
-
-Code will be available when all code will be documented and cleaned up.
