@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
 </p>
 
-Telegram бот расписания занятий *[Университета ИТМО](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")*.
+**[Telegram бот](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")** расписания занятий *Университета ИТМО*.
 
 **[README in english](https://goodforgod.github.io/itmo.help.bot "README english")**
+
+**[GitHub](https://github.com/GoodforGod/itmo.help.bot)**
 
 ## Содержание
 - [Что Зачем Почему](#the-why)
@@ -183,6 +185,6 @@ Telegram бот расписания занятий *[Университета �
 # Version History
 **История Версий**
 
-Текущая версия - *1.2.2*
+Текущая версия - *1.2.3*
 
 Не забывайте делиться замечаниями, отзывами, предложениями через команду **/feedback**.

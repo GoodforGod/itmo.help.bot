@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/xT9IgjZR0GmgffYgve/giphy.gif" width="256" height="256" align="middle"/>
 </p>
 
-Hello, I am *ITMO University* schedule **[Telegram Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**.
+*ITMO University* exam & schedule **[Telegram Bot](https://telegram.me/iTMOHelpBot "iTMO.Help Bot")**.
 
 **[README in russian](https://goodforgod.github.io/itmo.help.bot/README-RU "README Russian")**
+
+**[GitHub](https://github.com/GoodforGod/itmo.help.bot)**
 
 ## Content
 - [The Why](#the-why)
@@ -165,6 +167,6 @@ You can choose format with */set_format* command.
 
 # Version History
 
-Current - *1.2.2*
+Current - *1.2.3*
 
 You can leave feedback or report bug via **/feedback** command if you want.
