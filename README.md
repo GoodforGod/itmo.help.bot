@@ -127,8 +127,9 @@ Commands used to tune *bots settings* or provide helpful information.
 * */settings* - All the settings bot have.
 * */exclude* - Exclude lessons from schedule and notifications.
 * */help* - Tell you about some markup info.
-* */lang* - Change **language** for bot.
+* */set_lang* - Change **language** for bot.
 * */set_format* - Change bot messages format.
+* */set_maps* - Change map provider for lesson address.
 * */feedback* - Send your *feedback/ideas/bugreports*.
 * */silent* - Disable/Enable all notifications from Bot.
 * */menu* - Summon bot menu.
